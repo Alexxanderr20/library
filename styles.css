@@ -1,0 +1,15 @@
+button
+{
+    margin: auto;
+    text-align: center;
+    display: grid;
+    font-size: 30px;
+}
+
+#submit
+{
+    margin: auto;
+    text-align: center;
+    display: grid;
+    font-size: 20px;
+}
